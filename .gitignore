@@ -1,0 +1,4 @@
+.DS_Store
+datasets/coco.zip
+datasets/pet.zip
+datasets/VOCdevkit.zip
