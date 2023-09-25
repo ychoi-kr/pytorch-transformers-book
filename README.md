@@ -2,6 +2,13 @@
 
 ![pytorch.jpg](pytorch.png)
 
+
+## Datasets
+
+이 책에서 사용된 데이터세트는 [캐글](https://www.kaggle.com/datasets/s076923/pytorch-transformer)에서 다운로드할 수 있습니다.
+
+> https://www.kaggle.com/datasets/s076923/pytorch-transformer
+
 ## Notice
 
 각각의 예제는 실행 환경 및 라이브러리/프레임워크 버전에 따라 결과가 다를 수 있습니다.
